@@ -9,6 +9,9 @@ There is a deployment configuration in `.github/workflows/deploy.yml` that is tr
 2. Edit *index.html* to your liking.  
 3. Push to the main branch.  
 
+### Link to the deployed site
+https://kzwolenik95.github.io/github-actions-deployment-workflow/
+
 **Solution submission for the project:**  
 
 https://roadmap.sh/projects/github-actions-deployment-workflow
