@@ -10,7 +10,7 @@ There is a deployment configuration in `.github/workflows/deploy.yml` that is tr
 3. Push to the main branch.  
 
 ### Link to the deployed site
-https://kzwolenik95.github.io/github-actions-deployment-workflow/
+https://www.gh.kzwolenik.com/
 
 **Solution submission for the project:**  
 
